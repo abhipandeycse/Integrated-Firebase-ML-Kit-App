@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "608557548007",
+    "project_id": "integratedfirebasemlkita-15dfd",
+    "storage_bucket": "integratedfirebasemlkita-15dfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608557548007:android:b812c26788579f2544fd42",
+        "android_client_info": {
+          "package_name": "com.project.integratedfirebasemlkitappjava"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWfZdlq-Dv5E_ec3A_W2ilVSPvzd5cVOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
